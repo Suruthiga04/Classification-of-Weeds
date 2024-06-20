@@ -1,0 +1,1 @@
+The sample weed images contain only 60 images i.e 15 images for each weed. This is the data received from the authors on request.With those images preprocessing was done and a csv was generated but was not used for training the model. As the generated dataset(output.csv) size was small, the processed dataset given in the base paper was used for training and further process
